@@ -41,4 +41,4 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navnoorsingh0309&" alt="akash-9070" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navnoorsingh0309&" alt="navnoorsingh0309" /></p>
