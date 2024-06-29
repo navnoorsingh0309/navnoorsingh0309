@@ -6,7 +6,6 @@
 
 <p align="center">
     <img height=150 src="https://github-readme-stats.vercel.app/api?username=navnoorsingh0309&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=navnoorsingh0309&layout=compact&theme=radical&langs_count=10&hide=html,css" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
