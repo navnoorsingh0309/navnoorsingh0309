@@ -3,6 +3,8 @@
 <h3 align="center">An aspiring learner who is passionate about Robotics, Artificial Intelligence, Machine Learning, and Software Development. I am passionate about the immense possibilities that offer for transforming industries, improving lives, and pushing boundaries of innovation </h3>
 <h3>Know more about me: <a href="https://navnoor-singh-bal.vercel.app" target="_blank">Visit my site</a></h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=navnoorsingh0309&label=Profile%20views&color=0e75b6&style=flat" alt="navnoorsingh0309" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navnoorsingh0309" alt="navnoorsingh0309" /></a> </p>
 
 <p align="center">
